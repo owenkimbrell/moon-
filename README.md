@@ -4,7 +4,7 @@
 
 _________________________
 
-** 1.0.0 **
+**1.0.0**
 
 1. Add luajit C dumper
   1. Add .o support / raw support
